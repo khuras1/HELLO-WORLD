@@ -1,0 +1,1 @@
+i fully understand that in this bootcamp, the aim is not to rush into finishing cards, it is more important that one understands the content as well as the tasks on hand. as a junior developer, it is important that i read and understand all the documentation.. i should maintain discipline too
